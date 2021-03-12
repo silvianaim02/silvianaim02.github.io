@@ -1,0 +1,16 @@
+body {
+    max-height: fit-content;
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #97b1ce;
+}
+
+#projects {
+    background-color: #97b1ce;
+}
+
+section {
+    padding-top: 5rem;
+}
