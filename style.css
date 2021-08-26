@@ -14,3 +14,7 @@ body {
 section {
     padding-top: 5rem;
 }
+
+.class p a {
+    text-decoration: none;
+}
