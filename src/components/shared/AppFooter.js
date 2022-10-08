@@ -1,26 +1,26 @@
-import { FiGithub, FiTwitter, FiInstagram, FiBook } from 'react-icons/fi';
+import { FiGithub, FiTwitter, FiBook, FiLinkedin } from 'react-icons/fi';
 import AppFooterCopyright from './AppFooterCopyright';
 
 const socialLinks = [
 	{
 		id: 1,
 		icon: <FiGithub />,
-		url: 'https://github.com/realstoman',
+		url: 'https://github.com/silvianaim02',
 	},
 	{
 		id: 2,
 		icon: <FiTwitter />,
-		url: 'https://twitter.com/realstoman',
+		url: 'https://twitter.com/silvianaim02',
 	},
 	{
 		id: 3,
 		icon: <FiBook />,
-		url: 'https://stoman.medium.com',
+		url: 'https://medium.com/@silvianaim02',
 	},
 	{
 		id: 4,
-		icon: <FiInstagram />,
-		url: 'https://instagram.com/realstoman',
+		icon: <FiLinkedin />,
+		url: 'https://www.linkedin.com/in/silvianaim02/',
 	},
 ];
 
