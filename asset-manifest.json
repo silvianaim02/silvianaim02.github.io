@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b13aa1d6.chunk.css",
+    "main.js": "/static/js/main.c178834c.chunk.js",
+    "main.js.map": "/static/js/main.c178834c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.37a92814.js",
+    "runtime-main.js.map": "/static/js/runtime-main.37a92814.js.map",
+    "static/js/2.6992c73f.chunk.js": "/static/js/2.6992c73f.chunk.js",
+    "static/js/2.6992c73f.chunk.js.map": "/static/js/2.6992c73f.chunk.js.map",
+    "static/js/3.04921ee0.chunk.js": "/static/js/3.04921ee0.chunk.js",
+    "static/js/3.04921ee0.chunk.js.map": "/static/js/3.04921ee0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.b13aa1d6.chunk.css.map": "/static/css/main.b13aa1d6.chunk.css.map",
+    "static/js/2.6992c73f.chunk.js.LICENSE.txt": "/static/js/2.6992c73f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/GeneralSans-VariableItalic.e4ae865b.woff",
+    "static/media/avatar.17ebff11.jpg": "/static/media/avatar.17ebff11.jpg",
+    "static/media/bcr.983228c8.png": "/static/media/bcr.983228c8.png",
+    "static/media/bookshelf-apps.5ae3667a.png": "/static/media/bookshelf-apps.5ae3667a.png",
+    "static/media/developer-dark.aa2700b5.svg": "/static/media/developer-dark.aa2700b5.svg",
+    "static/media/irememo.c75a4c79.png": "/static/media/irememo.c75a4c79.png",
+    "static/media/logo-dark.151ceed9.svg": "/static/media/logo-dark.151ceed9.svg",
+    "static/media/logo-light.3fb4ffd9.svg": "/static/media/logo-light.3fb4ffd9.svg",
+    "static/media/mobile-project-1.0aa0cb76.jpg": "/static/media/mobile-project-1.0aa0cb76.jpg",
+    "static/media/mobile-project-2.a5aae786.jpg": "/static/media/mobile-project-2.a5aae786.jpg",
+    "static/media/programmer.fa098c63.svg": "/static/media/programmer.fa098c63.svg",
+    "static/media/pushbox.955f40f7.png": "/static/media/pushbox.955f40f7.png",
+    "static/media/secondhand.916a45f1.png": "/static/media/secondhand.916a45f1.png",
+    "static/media/teropong-literasi.986bf04f.png": "/static/media/teropong-literasi.986bf04f.png",
+    "static/media/ui-project-1.41def4d8.jpg": "/static/media/ui-project-1.41def4d8.jpg",
+    "static/media/ui-project-2.d2891914.jpg": "/static/media/ui-project-2.d2891914.jpg",
+    "static/media/web-project-1.dbc2198e.jpg": "/static/media/web-project-1.dbc2198e.jpg",
+    "static/media/web-project-2.f0108702.jpg": "/static/media/web-project-2.f0108702.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37a92814.js",
+    "static/js/2.6992c73f.chunk.js",
+    "static/css/main.b13aa1d6.chunk.css",
+    "static/js/main.c178834c.chunk.js"
+  ]
+}
