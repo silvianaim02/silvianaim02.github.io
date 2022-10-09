@@ -19,35 +19,41 @@ export const projectsData = [
 			publishDate: 'Jul 26, 2021',
 			tags: 'UI / Frontend',
 		},
+		url: "https://silvianaim02.github.io/teropong-literasi/"
 	},
 	{
 		id: 2,
 		title: 'Bookshelf Apps',
 		category: 'UI / Frontend',
 		img: bookshelfAppsImg,
+		url: "https://bookshelf-apps-submission.vercel.app/"
 	},
 	{
 		id: 3,
 		title: 'Push Box',
 		category: 'UI / Frontend',
 		img: pushboxImg,
+		url: "https://pushboxproject.github.io/"
 	},
 	{
 		id: 4,
 		title: 'Binar Car Rental Page',
-		category: 'UI / Frontend',
+		category: 'Landing Page',
 		img: bcrImg,
+		url: "https://silvianaim02.github.io/Binar-Car-Rental/"
 	},
 	{
 		id: 5,
 		title: 'Second Hand',
-		category: 'UI / Frontend',
+		category: 'Web Application',
 		img: secondhandImg,
+		url: "https://secondhandfe.vercel.app/"
 	},
 	{
 		id: 6,
 		title: 'Irememo',
 		category: 'Web Application',
 		img: irememoImg,
+		url: "https://irememo.vercel.app/"
 	},
 ];
